@@ -3,7 +3,7 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
-url = "https://nl.trustpilot.com/review/3dme.nl"
+url = "https://nl.trustpilot.com/review/{your trustpilot company}"
 
 
 class Review:
